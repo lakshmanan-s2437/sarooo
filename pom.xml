@@ -27,7 +27,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
 <force>true</force>
 <jboss-as.deploy.hostname>localhost</jboss-as.deploy.hostname> <!-- Where to deploy. -->
 <jboss-as.deploy.port>9999</jboss-as.deploy.port>
-<jboss-as.deploy.user>admin</jboss-as.deploy.user>
+<jboss-as.deploy.user>surya</jboss-as.deploy.user>
 <jboss-as.deploy.pass>Sooriya@1999</jboss-as.deploy.pass>
 <plugin.war.warName>my-app-1.0-SNAPSHOT</plugin.war.warName>
 <fileNames>
